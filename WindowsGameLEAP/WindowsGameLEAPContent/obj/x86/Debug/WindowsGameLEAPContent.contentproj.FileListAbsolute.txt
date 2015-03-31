@@ -1,0 +1,2 @@
+C:\Users\Usager\Desktop\XNAWindowsLeapMotion-master\WindowsGameLEAP\WindowsGameLEAPContent\obj\x86\Debug\WindowsGameLEAPContent.contentprojResolveAssemblyReference.cache
+G:\XNAWindowsLeapMotion-master\WindowsGameLEAP\WindowsGameLEAPContent\obj\x86\Debug\WindowsGameLEAPContent.contentprojResolveAssemblyReference.cache
